@@ -40,7 +40,7 @@ Personalized search results are a convenient feature which individuals can likel
 
  ---
 
- ##Summary 
+ ## Summary 
 
  Disengaging from data tracking technologies like Google Search is not only difficult, but structurally discouraged. With Google’s normalized and extremely common use, it is important to explore how the platform's interface, governance, and use of algorithmic systems is designed to shape behaviour, maximize engagement, and profit from our data. Through exploring the platform, reflecting on my experiences, applying scholarly frameworks, and integrating scientific studies, it is evident how Google does not only collect our data, but predicts, classifies, and modifies our experiences and digital identities. While promoted as a neutral tool for information access, Google is utilized for professional profit. Raising important ethical considerations, Google can actively nudge our actions, repurpose biases, and impact our critical reflection. As humans living alongside rapid technological advancements and normalizations, we must question how power is repurposed within the systems we rely on
 
